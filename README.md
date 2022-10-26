@@ -1,2 +1,2 @@
 # Barbearia-alura
-Criei a pagina we barbearia alura
+Criei a pagina web barbearia alura
